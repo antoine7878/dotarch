@@ -1,0 +1,15 @@
+alias grep='grep --color=auto'
+alias vim='nvim'
+alias p='sudo pacman'
+alias c="clear"
+alias ls="logo-ls -A"
+alias l="logo-ls -A"
+alias radeontop="radeontop -c -T"
+alias btop="btop --utf-force"
+alias please='sudo $(fc -ln -1)'
+alias code="codium"
+alias cl="c & l"
+alias awesome="nvim ~/.config/awesome/rc.lua"
+alias awesomeT="nvim ~/.config/awesome/theme-def.lua"
+alias polybar="nvim ~/.config/polybar/config.ini"
+# alias neofetch="neofetch --ascii ~/.config/neofetch/images/sus"
